@@ -2,8 +2,8 @@
 //  main.m
 //  DisplaySleep
 //
-//  Created by Numeric on 12/7/17.
-//  Copyright © 2017 Numeric. All rights reserved.
+//  Created by Blue on 9/4/18.
+//  Copyright © 2018 Blue. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
